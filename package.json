@@ -1,0 +1,14 @@
+{
+  "name": "binary",
+  "version": "1.0.0",
+  "description": ".NET like BinaryReader and BinaryWriter in Node.js",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jorge Jiménez",
+  "license": "MIT"
+}
