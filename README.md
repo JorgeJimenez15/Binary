@@ -12,4 +12,3 @@
 8. readUIntLE
 9. compare
 10. Documentation
-11. 
