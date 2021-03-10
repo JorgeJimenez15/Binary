@@ -9,6 +9,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JorgeJimenez15/Binary.git"
+  },
   "author": "Jorge Jiménez",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JorgeJimenez15/Binary/issues"
+  },
+  "homepage": "https://github.com/JorgeJimenez15/Binary#readme"
 }
