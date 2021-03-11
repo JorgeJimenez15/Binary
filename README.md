@@ -10,5 +10,4 @@
 6. readIntLE
 7. readUIntBE
 8. readUIntLE
-9. compare
-10. Documentation
+9. Documentation
